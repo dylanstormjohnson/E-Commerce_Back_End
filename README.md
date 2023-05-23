@@ -48,7 +48,7 @@ The back end coding for an E-Commerce website!!
 
 ## Badges
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)   ![dotenv](https://img.shields.io/badge/nodemon-%5E2.0.3-orange)   ![dotenv](https://img.shields.io/badge/dotenv-%5E8.2.0-orange) ![express](https://img.shields.io/badge/express-%5E4.17.1-orange) ![mysql2](https://img.shields.io/badge/mysql2-%5E2.1.0-orange) ![sequelize](https://img.shields.io/badge/sequelize-%5E5.21.7-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)   ![dotenv](https://img.shields.io/badge/nodemon-%5E2.0.3-orange)   ![dotenv](https://img.shields.io/badge/dotenv-%5E8.2.0-orange) ![express](https://img.shields.io/badge/express-%5E4.17.1-orange) ![mysql2](https://img.shields.io/badge/mysql2-%5E2.1.0-orange) ![sequelize](https://img.shields.io/badge/sequelize-%5E5.21.7-orange)   [![dotenv](https://img.shields.io/npm/v/dotenv.svg)](https://www.npmjs.com/package/dotenv)
 
 ## Features
 
