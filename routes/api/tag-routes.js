@@ -52,7 +52,7 @@ router.post('/', async (req, res) => {
   */
   try {
     console.log('ADDING TAG...');
-    const newTag = await Category.create(req.body)
+    const newTag = await Tag.create(req.body)
     res.json(newTag)
 
   } catch (error) {
