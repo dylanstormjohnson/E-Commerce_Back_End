@@ -1,10 +1,11 @@
 # <E-Commerce_Back_End>
+
 The back end coding for an E-Commerce website!!
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
-- This project was made using Javascript, Node.js, MySQL.  I was motivated to build this project to showcase the backend coding for an e-commerce database and connecting to it.  It was built because e-commerce is a common usage for databases and product information storage.  It is intended to solve the problem of being unable to see and manipulate the database associated with said application.  In making said project, I learned about routing with express, Sequelize, and calling routes with Insomnia.
+- This project was made using Javascript, Node.js, MySQL. I was motivated to build this project to showcase the backend coding for an e-commerce database and connecting to it. It was built because e-commerce is a common usage for databases and product information storage. It is intended to solve the problem of being unable to see and manipulate the database associated with said application. In making said project, I learned about routing with express, Sequelize, and calling routes with Insomnia.
 
 ## Table of Contents
 
@@ -27,10 +28,10 @@ The back end coding for an E-Commerce website!!
 - This project is intended to be used as a manipulatable storage system for product information.
 
 - Here is a video showcasing the functionality of the completed project:
-[Showcase video:](https://drive.google.com/file/d/1U69tIBTDSMOvJ46e6i1qLH65WUN-iCXH/view)
-
+  [Showcase video:](https://drive.google.com/file/d/1U69tIBTDSMOvJ46e6i1qLH65WUN-iCXH/view)
 
 ## Credits
+
 - This website was coded by Dylan Storm Johnson.
 
 - While working on this project, I was aided by a tutor, Alexis Gonzales, who assisted with bug solving, code refinement, and expanding on the concept.
@@ -43,11 +44,11 @@ The back end coding for an E-Commerce website!!
 
 ## License
 
-- This project is listed under the Apache License 2.0.  Under this license, use must still preserve copyright and license notices.  Distribution under separate terms is allowed for licensed works, modifications, and larger works.  An express grant of patent rights is provided by contributors.
+- This project is listed under the Apache License 2.0. Under this license, use must still preserve copyright and license notices. Distribution under separate terms is allowed for licensed works, modifications, and larger works. An express grant of patent rights is provided by contributors.
 
 ## Badges
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)   ![dotenv](https://img.shields.io/badge/nodemon-%5E2.0.3-orange)   ![dotenv](https://img.shields.io/badge/dotenv-%5E8.2.0-orange) ![express](https://img.shields.io/badge/express-%5E4.17.1-orange) ![mysql2](https://img.shields.io/badge/mysql2-%5E2.1.0-orange) ![sequelize](https://img.shields.io/badge/sequelize-%5E5.21.7-orange)
 
 ## Features
 
@@ -63,9 +64,9 @@ The back end coding for an E-Commerce website!!
 
 ## How to Contribute
 
-- This project has reached completion and no further help is necessary.  If you would like to expand on the idea, you are welcome to download a fork of the repository and work on your own version.
+- This project has reached completion and no further help is necessary. If you would like to expand on the idea, you are welcome to download a fork of the repository and work on your own version.
 
-- Aside from the aforementioned ways you can contribute, the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard for contribution policy.  (Please use the above guidelines for contribution and consult the Contributor Covenant on things not specified.)
+- Aside from the aforementioned ways you can contribute, the [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard for contribution policy. (Please use the above guidelines for contribution and consult the Contributor Covenant on things not specified.)
 
 ## Tests
 
@@ -74,4 +75,5 @@ The back end coding for an E-Commerce website!!
 ## Questions
 
 - If you have any questions regarding this or my other projects, my GitHub account is [Dylan's GitHub account] (https://github.com/dylanstormjohnson).
+
 ---
