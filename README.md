@@ -49,6 +49,7 @@ The back end coding for an E-Commerce website!!
 ## Badges
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) [![nodemon](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.com/package/nodemon) [![dotenv](https://img.shields.io/npm/v/dotenv.svg)](https://www.npmjs.com/package/dotenv) [![express](https://img.shields.io/npm/v/express.svg)](https://www.npmjs.com/package/express) [![mysql2](https://img.shields.io/npm/v/mysql2.svg)](https://www.npmjs.com/package/mysql2) [![sequelize](https://img.shields.io/npm/v/sequelize.svg)](https://www.npmjs.com/package/sequelize)
+[![nodemon](https://img.shields.io/yarn/v/nodemon.svg)](https://yarnpkg.com/package/nodemon)
 
 ## Features
 
